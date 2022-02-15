@@ -1,3 +1,5 @@
+# This program allowed user inputs to be handled by an external class
+
 from pets import Pets
 
 def main():
